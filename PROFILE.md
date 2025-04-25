@@ -11,5 +11,5 @@ This file was fixed by Kate
 
 Tut хтось зробив зміни
 
-фівафіав
+Пофіксив діч
 
