@@ -8,3 +8,5 @@ This file was implemented by Angelina
 This file was fixed by Kate
 
 Тут ще новіші зміни
+
+Tut хтось зробив зміни
