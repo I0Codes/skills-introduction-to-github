@@ -6,3 +6,5 @@ This file is for K8
 
 This file was implemented by Angelina
 This file was fixed by Kate
+
+Тут ще новіші зміни
